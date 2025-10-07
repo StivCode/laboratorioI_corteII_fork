@@ -15,3 +15,6 @@ El objetivo es familiarizarse con el uso de control de versiones mediante las si
 ---
 
 Este laboratorio es una práctica sencilla que permite reforzar los conceptos básicos de trabajo colaborativo y flujo de versiones en Git y GitHub.
+
+----------------------------------------------------------------------------------------------------
+Este es un cambio realizado desde la interfaz de GitHub para luego hacer un pull en local
