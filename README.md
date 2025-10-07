@@ -18,3 +18,6 @@ Este laboratorio es una pr√°ctica sencilla que permite reforzar los conceptos b√
 
 ----------------------------------------------------------------------------------------------------
 Este es un cambio realizado desde la interfaz de GitHub para luego hacer un pull en local
+
+-----------------------
+Este es un cambio realizado desde vs code para luego hacer el push
